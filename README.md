@@ -1,5 +1,5 @@
 # Buffer Overflow Windows Exploit Development Practice
-**What this repo is:** For my up and coming battle with the infamous OSCE certification exam, I challenged myself to re-write 50 proof of concepts for pre-existing exploits in various Windows based software.
+**What this repo is:** For my up and coming battle with the infamous OSCE certification exam, I challenged myself to re-write as many proof of concepts for pre-existing exploits in various Windows based software as I could.
 
 
 Absolutely NO looking at the original exploits or POC!
