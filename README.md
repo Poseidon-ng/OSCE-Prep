@@ -31,7 +31,7 @@ I want to keep this repo within the scope of the OSCE course, which includes: Va
 ---
 ## Overflow Character Restrictions:
 **Unicode restrictions:**
-Nothing Yet!
+1. Vulnserver HTER Unicode EIP overwrite
 
 **Alphanumeric Restrictions:**
 Nothing Yet!
